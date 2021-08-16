@@ -27,7 +27,7 @@ rm -r masks
 
 # ~~~~~~~ Non ACT Products ~~~~~~~~
 echo "Get the CMASS galaxy catalog"
-wget  https://data.sdss.org/sas/dr12/boss/lss/galaxy_DR12v5_CMASSLOWZTOT_South.fits.gz && gunzip ./galaxy_DR12v5_CMASSLOWZTOT_South$
+wget  https://data.sdss.org/sas/dr12/boss/lss/galaxy_DR12v5_CMASSLOWZTOT_South.fits.gz && gunzip ./galaxy_DR12v5_CMASSLOWZTOT_South.fits.gz
 
 
 
